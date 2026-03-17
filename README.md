@@ -38,3 +38,7 @@ Arquitetura de Informação: Priorização da facilidade de acesso, reduzindo o 
 
 ### 🔗 Link do Projeto
 Você pode navegar pelo arquivo completo no Figma aqui: https://www.figma.com/design/TFpiR51AQj4IuWCJ7T02xL/Interface?node-id=0-1&t=ttbjPHYoiVZ3Dm9e-1
+
+### 👨‍💻 Autoras:
+Amanda Morais 
+Lanna Adrielly Rezende
