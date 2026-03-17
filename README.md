@@ -2,6 +2,7 @@
 Wireframe mobile de baixa fidelidade no Figma, a partir de uma situação-problema realista, com foco em:  tarefa principal do usuário, jornada de uso, arquitetura da informação, clareza funcional, flexibilidade de uso, validação por teste com usuários.
 
 ## Planejador de Eventos do WhatsApp - Design de Recursos
+
 ###📌 Sobre o Projeto
 Este projeto apresenta o design de uma nova funcionalidade do WhatsApp: a Criação de Listas de Convidados e Eventos. A proposta visa otimizar a organização de eventos diretamente pelas conversas, permitindo que o usuário gerencie participantes de forma prática e visual, sem sair do ecossistema do aplicativo.
 
