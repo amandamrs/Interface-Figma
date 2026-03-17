@@ -41,4 +41,5 @@ Você pode navegar pelo arquivo completo no Figma aqui: https://www.figma.com/de
 
 ### 👨‍💻 Autoras:
 Amanda Morais 
+
 Lanna Adrielly Rezende
